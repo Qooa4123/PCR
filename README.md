@@ -1,5 +1,5 @@
 # PCR專案練習
-# 機器學習作業一：股票報酬率預測 (Machine Learning HW1)
+# 機器學習：股票報酬率預測
 
 ## 1. 專案概述
 [cite_start]本專案採用季末截面資料預測下一季的對數報酬率 ($log$ returns) [cite: 2][cite_start]。為了觀察不同季度下的結果差異，模型採用**滾動執行 (Rolling Execution)** 的方式進行回測 [cite: 4]。
